@@ -6,9 +6,9 @@ color:
   saturation: 0.9654622820671648
   rhythmicContrast: 0.38404556503519416
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Surreal
