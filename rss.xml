@@ -2,45 +2,10 @@
     <channel>
         <title><![CDATA[Surreal]]></title>
         <description><![CDATA[Surreal]]></description>
-        <link>https://thegrid.ai/surreal/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 15:47:56 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/surreal/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Massimo Vignelli's Signed 2012 NYC Subway Diagram]]></title>
-            <description><![CDATA[<article><h1>Massimo Vignelli's Signed 2012 NYC Subway Diagram</h1><p>Less than one year ago, the world lost one of its most important creative minds with the passing of Massimo Vignelli. The celebrated graphic designer bestowed upon us a great number of now-iconic designs, though perhaps none more visibly lasting than his 1972 MTA New York City Transit subway map.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f32d0a35a78621feb4c771f37440467815b250e.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster</link>
-            <guid isPermaLink="false">c93ea320-94c3-4da5-9b12-7bf7df9c61f9</guid>
-            <pubDate>Mon, 23 May 2016 15:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview: Artist Ryan McGinness on Designing for Hennessy]]></title>
-            <description><![CDATA[<article><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle</link>
-            <guid isPermaLink="false">754b0f7c-34dd-44ee-b4ce-dfb785a38918</guid>
-            <pubDate>Mon, 23 May 2016 15:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colossal]]></title>
-            <description><![CDATA[<article><h1>Colossal</h1><p>Commercial photographer Sam Kaplan 's latest project, transforms sticks of chewing gum into monumental structures, stacking the sticky treat in shapes that imitate architectural forms. Hundreds of pieces of gum criss cross and stand upwards to create pyramids, columns, and arches-held tightly together with support from super glue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f63dd7a08eb117fcc92bfb1c70282c91eac1097.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/</link>
-            <guid isPermaLink="false">c380c324-94e2-4be5-91ca-09e4f3c6b6c6</guid>
-            <pubDate>Mon, 23 May 2016 15:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">27401ed3-dd8a-43e0-8347-53dc6fbc6bdc</guid>
-            <pubDate>Mon, 23 May 2016 15:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sevenhugs' Smart Remote]]></title>
-            <description><![CDATA[<article><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df1caa77bd36920224edf22d445e863c5b829e80.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/sevenhugs-smart-remote</link>
-            <guid isPermaLink="false">e9f95ecd-40a0-458e-a1f1-be1e89548bca</guid>
-            <pubDate>Mon, 23 May 2016 15:46:10 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 23 May 2016 15:46:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Colossal]]></title>
             <description><![CDATA[<article><h1>Colossal</h1><p>Commercial photographer Sam Kaplan 's latest project, transforms sticks of chewing gum into monumental structures, stacking the sticky treat in shapes that imitate architectural forms. Hundreds of pieces of gum criss cross and stand upwards to create pyramids, columns, and arches-held tightly together with support from super glue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f63dd7a08eb117fcc92bfb1c70282c91eac1097.jpg"></article>]]></description>
