@@ -1,0 +1,14 @@
+layout_spectrum: 0.5414570379070938
+typography_spectrum: 0.33246499695815146
+color:
+  brandStrength: 0.37565338890999556
+  lightness: 0.8963339594192803
+  saturation: 0.9654622820671648
+  rhythmicContrast: 0.38404556503519416
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Surreal
